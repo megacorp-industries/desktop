@@ -1,0 +1,7 @@
+---
+- name: Configure Silverblue
+  hosts: localhost
+  connection: local
+  become: true
+  roles:
+    - ansible-role-ostree-setup
