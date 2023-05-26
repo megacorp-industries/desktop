@@ -1,0 +1,1 @@
+0 # Script enabling min and max. See "https://askubuntu.com/questions/651347/how-to-bring-back-minimize-and-maximize-buttons-in-gnome-3"
